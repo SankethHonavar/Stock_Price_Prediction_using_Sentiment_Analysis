@@ -81,7 +81,8 @@ This project is for educational and research purposes.
 ## 🙋‍♂️ Author
 
 **Sanketh Honavar**
-📧 [sankethhonavar@gmail.com](mailto:sankethhonavar@gmail.com)
-🔗 [GitHub Profile](https://github.com/SankethHonavar)
+-📧 **Email:**[sankethhonavar@gmail.com](mailto:sankethhonavar@gmail.com)
+-🔗 [**GitHub Profile**](https://github.com/SankethHonavar)
+-🔗 [**LinkedIn**:](https://linkedin.com/in/sankethhonavar)
 
 ```
