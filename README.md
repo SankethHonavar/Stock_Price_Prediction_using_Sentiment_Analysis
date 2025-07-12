@@ -38,7 +38,7 @@ This project aims to predict the movement of **Tesla's stock price (TSLA)** usin
    ```bash
    git clone https://github.com/SankethHonavar/Stock_Price_Prediction_using_Sentiment_Analysis.git
    cd Stock_Price_Prediction_using_Sentiment_Analysis
-````
+   ```
 
 2. Install the dependencies:
 
