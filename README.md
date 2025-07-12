@@ -1,4 +1,3 @@
-````markdown
 # 📈 Stock Price Prediction using Sentiment Analysis 🧠💹
 
 This project aims to predict the movement of **Tesla's stock price (TSLA)** using sentiment analysis on financial news headlines. It leverages Natural Language Processing (NLP) techniques to extract sentiment scores and uses them to predict whether the stock price will go **up** or **down**.
