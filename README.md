@@ -26,8 +26,8 @@ This project aims to predict the movement of **Tesla's stock price (TSLA)** usin
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Matplotlib, Seaborn
-- NLTK or TextBlob
+- Matplotlib
+- LSTM
 
 ---
 
@@ -66,8 +66,7 @@ This project aims to predict the movement of **Tesla's stock price (TSLA)** usin
 
 ## ✅ Future Improvements
 
-* Integrate live news scraping (e.g., using NewsAPI)
-* Use LSTM or Transformer models for time series + NLP
+* Integrate live news scraping (e.g., using NewsAPI) 
 * Improve sentiment scoring with domain-specific tools like FinBERT
 
 ---
